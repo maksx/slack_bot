@@ -1,0 +1,6 @@
+slack_bolt
+python-dotenv
+python-json-logger
+fastapi
+uvicorn
+pytest
